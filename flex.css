@@ -35,6 +35,8 @@
   align-items: flex-start;
   align-content: space-between;
   padding: 
+  max-width: 1280px;
+  margin: 0 auto;
 }
 
 [class^="box"] {
@@ -42,7 +44,8 @@
 }
 
 .box1 {
-width: 96%;
+width: 99%;
+margin-top: .5%;
 
 
 }
@@ -69,14 +72,14 @@ width:calc(93vh / 2)
 }
 
 .box8 {
-  width:calc(96vh / 2)
+  width:32.3%
 }
 
 .box9 {
-  width:calc(96vh / 2)
+  width:32.3%
 
 }
 .box10 {
-  width:calc(96vh / 2)
+  width:32.3%
 
 }
